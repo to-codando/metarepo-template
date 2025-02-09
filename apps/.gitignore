@@ -1,7 +1,9 @@
-app-site
-fam-code-cms
-fam-code-ui
-iares
+# Ignora tudo
+*
 
-node_modules
-build
+# Exceto o arquivo .meta no diretório atual
+!.meta
+
+# Reforçar ignorar qualquer coisa dentro de subdiretórios
+# mesmo se eles tiverem arquivos começando com .meta
+*/
