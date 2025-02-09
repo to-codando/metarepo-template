@@ -1,9 +1,11 @@
+node_modules
+
 # Ignora tudo
-*
+apps/*
 
 # Exceto o arquivo .meta no diretório atual
-!.meta
+!apps/.meta
 
 # Reforçar ignorar qualquer coisa dentro de subdiretórios
 # mesmo se eles tiverem arquivos começando com .meta
-*/
+apps/*/

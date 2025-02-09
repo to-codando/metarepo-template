@@ -1,1 +1,8 @@
 node_modules
+
+# Ignora tudo
+apps/*
+
+# Exceto o arquivo .meta no diretório atual
+!apps/.meta
+
