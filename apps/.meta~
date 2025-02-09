@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "iares": "git@github.com:to-codando/iares.git",
+    "iares-ui": "git@github.com:to-codando/iares-ui.git",
+  }
+}

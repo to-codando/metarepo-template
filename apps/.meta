@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "mu": "git@github.com:to-codando/mu.git",
+    "mu-ui": "git@github.com:to-codando/mu-ui.git",
+  }
+}
